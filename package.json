@@ -1,6 +1,6 @@
 {
-  "displayName": "SmartRent",
-  "name": "homebridge-smartrent",
+  "displayName": "SmartRent Fork",
+  "name": "@gedmin45/homebridge-smartrent",
   "version": "1.0.2",
   "description": "Homebridge plugin for SmartRent installations",
   "keywords": [
